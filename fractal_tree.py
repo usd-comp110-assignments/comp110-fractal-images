@@ -26,9 +26,9 @@ def draw_fractal_tree(t, branch_length, remaining_levels_of_recursion):
        On returning, the turtle's position and heading are restored to the same as when the function was called.
     """
    
-    # Base case: if no remaining levels of recursion, return.
-    pass  # Replace this 
 
+    # conditional for recursive case
+    pass # Replace this
 
     # draw the current branch
     pass  # Replace this 
@@ -47,6 +47,9 @@ def draw_fractal_tree(t, branch_length, remaining_levels_of_recursion):
 
     # restore heading and position to what it was at the start of the function.
     pass  # Replace this 
+
+    # Base case
+    pass # Replace with what is needed
 
 def initialize_turtle():
     """
