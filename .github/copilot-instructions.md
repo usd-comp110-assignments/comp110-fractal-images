@@ -1,13 +1,12 @@
 # Project Overview
 
-This project is a python project where students create a flashcard game from questions and answers contained in a file.
+This project is a python project where students create fractal draaws using python turtles and recursion.
 
 # Requirements
 - Don't restate these requirements or coding standards when answering chat questions.
 - Just show the code in the chat, do not edit files unless explicitly prompted to add the code to the files by the user. This prompting needs to happen each time.
 
 # Coding Standards
-- No recursion should be used.
 - Do not use list comprehension.
 - Do not use ternary operators.
 - Do not use try except blocks.
